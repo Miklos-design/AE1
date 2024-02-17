@@ -1,4 +1,4 @@
-package file2930017;
+package AE1;
 
 public interface Component {
     public String getName();
